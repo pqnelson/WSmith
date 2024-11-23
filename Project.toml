@@ -1,0 +1,12 @@
+name = "WSmith"
+uuid = "1da5f06f-a944-45da-94fe-b5ecef707434"
+authors = ["Alex Nelson <pqnelson@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+JuliaFormatter = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
+
+[compat]
+Documenter = "1.8.0"
+JuliaFormatter = "1.0.62"
