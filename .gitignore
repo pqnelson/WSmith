@@ -3,3 +3,6 @@
 *~
 
 refs/
+
+# Ignore docs
+docs/build/

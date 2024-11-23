@@ -1,3 +1,11 @@
 using Documenter, WSmith
+#, WSmith.RotatingSphere
 
-makedocs(sitename="My documentation")
+makedocs(
+    format = Documenter.HTML(),
+    sitename="WSmith.jl",
+    pages = [
+        "index.md",
+        "rotating_sphere.md",
+    ],
+)
