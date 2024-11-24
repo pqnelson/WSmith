@@ -7,5 +7,6 @@ makedocs(
     pages = [
         "index.md",
         "rotating_sphere.md",
+        "thermodynamics.md",
     ],
 )
